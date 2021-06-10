@@ -1,0 +1,320 @@
+
+.main {
+	width: 960px;
+	height: 100px;
+	margin: auto;
+	background-color: #DEB887;
+}
+
+.kotak .kiri .icon-laptop img {
+	padding: 10px;
+	width: 350px;
+	height: 200px;
+	float: left;
+	background-color: #FFE4C4;
+}
+
+h2 {
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.kotak .kiri .icon-laptop .txt-spesifikasi li{
+	list-style: none;
+
+}
+.kotak .kiri .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: left;
+	font-size: 17px;
+	background-color: #FFE4C4;
+}
+
+.kotak .kiri {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+
+.kotak .kanan .icon-laptop img {
+	padding: 10px;
+	width: 350px;
+	height: 200px;
+	float: right;
+	background-color: #FFE4C4;
+} 
+
+.kotak .kanan .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 17px;
+	float: right;
+	background-color: #FFE4C4;
+}
+
+.kotak .kanan .icon-laptop .txt-spesifikasi li{
+	list-style: none;
+
+} 
+
+.kotak .kanan {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+
+.kotak .kiri2 .icon-laptop img {
+	padding: 10px;
+	width: 350px;
+	height: 200px;
+	float: left;
+	background-color: #FFE4C4;
+}
+
+.kotak .kiri2 .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: left;
+	font-size: 17px;
+	background-color: #FFE4C4;
+}
+
+.kotak .kiri2 {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+.txt-spesifikasi p {
+	text-align: center;
+
+}
+
+.kotak .kanan2 .icon-laptop img {
+	padding: 10px;
+	width: 350px;
+	height: 200px;
+	float: right;
+	background-color: #FFE4C4;
+}
+
+.kotak .kanan2 .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: right;
+	font-size: 17px;
+	background-color: #FFE4C4;
+}
+
+.kotak .kanan2 {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+.txt-spesifikasi p {
+	text-align: center;
+
+}
+
+.kotak .kiri3 .icon-laptop img {
+	padding: 10px;
+	width: 350px;
+	height: 200px;
+	float: left;
+	background-color: #FFE4C4;
+}
+
+.kotak .kiri3 .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: left;
+	font-size: 17px;
+	background-color: #FFE4C4;
+}
+
+.kotak .kiri3 {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+.txt-spesifikasi p {
+	text-align: center;
+
+}
+
+.kotak .kanan3 .icon-laptop img {
+	padding: 10px;
+	width: 300px;
+	height: 200px;
+	float: right;
+	background-color: #FFE4C4;
+}
+
+.kotak .kanan3 .icon-laptop  {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: right;
+	font-size: 17px;
+	background-color: #FFE4C4;
+}
+
+.kotak .kanan3 {
+	width: 960px;
+	height: 500px;
+	background-color:#DEB887;
+
+}
+.txt-spesifikasi p {
+	text-align: center;
+
+}
+
+/*==============================
+.header{
+	/*background-image: url(https://prog-8.com/images/html/advanced/top_en.png);*/
+	background-image: ul(https://www.kibrispdr.org/data/gambar-background-makanan-28.jpg);
+	background-color: #092c52;
+}
+
+.container{
+	width: 100%;
+}
+
+.judul{
+	
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	text-align: center;
+
+}
+
+.judul h1{
+	color: lawngreen;
+	font-size: 48px;
+}
+
+.judul h2{
+	color: floralwhite;
+	font-size: 48px;
+	margin: 0px;
+}
+
+.judul p{
+	color: ghostwhite;
+	font-size: 28px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.diatas_header{
+	height: 60px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+
+.diatas_header:hover{
+	color: red;
+}
+
+.menu_dijudul{
+	float: right;
+	
+}
+
+.menu_dijudul a{
+	line-height: 55px;
+ 	padding: 0 20px;
+  	display: block;
+ 	float: left;
+  	transition: all 1s;
+  	color: black;
+  	font-size: 20px;
+}
+
+.menu_dijudul a:hover{
+	background-color: gray;
+}
+
+.menu-icon {
+	display: none;
+  	color: whitesmoke;
+  	float: right;
+  	font-size: 25px;
+  	padding: 21px 0;
+}
+
+
+/*Pembatas==================================================================*/
+footer{
+	font-family: "Lucida Grande";
+	height: 80px;
+	width: 100%;
+	background-color: #092c52;
+	line-height: 50px;
+}
+
+footer h1{
+	display: inline-block;
+	float: left;
+	padding: 5px;
+	font-size:20px;
+	background-color: #F8F8FF;
+	text-align: center;
+	margin-left: 10px;
+	margin-top:10px;
+	margin-bottom: 5px;
+	border-radius: 10px
+}
+.list-product li{
+	display: inline-block;
+	float:left;
+	padding : 10px 60px;
+	font-size:24px;
+	color: white;
+	cursor: pointer;
+}
+
+.list-product li:hover{
+	background-color: darkgreen;
+	transition: all 1s;
+}
+
+footer li{
+	list-style: none;
+}
+
+.logo{
+	display: inline-block;
+	float: right;
+	background-color: #ADD8E6;
+	line-height: 65px;
+}
+
+
+/*Pembatas main menu============================================*/
+.main{
+	display: block;
+	width: 100%;
+	height: 1200px;
+	text-align: center;
+}
+
+.main-judul h3{
+	font-size: 35px;
+}
+
+.laptop{
+	display: block;
+	float: left;
+	width: 33%;
+	padding: 30px;
+	text-align: center;
+	margin: auto;
+	background-color: grey;
+}
