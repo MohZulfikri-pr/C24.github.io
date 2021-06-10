@@ -1,0 +1,79 @@
+@media(max-width: 1000px){
+	.judul h1{
+		font-size: 32px;
+	}
+
+	.judul p{
+		font-size: 20px;
+	}
+
+	.menu_dijudul a{
+		font-size: 14px;
+	}
+
+	.list-product li{
+	font-size:20px;
+	}
+
+	footer{
+		height: 100px;
+	}
+
+	footer h1{
+		font-size: 20px;
+		display: none;
+	}
+
+	.logo span{
+		display: none;
+	}
+
+	footer li{
+		width: 30%;
+		text-align: center;
+	}
+
+}
+
+
+@media(max-width: 670px){
+	.menu_dijudul{
+		display: none;
+	}
+
+	.menu-icon{
+		display: block;
+		color: black;
+	}
+
+	.judul h1{
+		font-size: 24px;
+	}
+
+	.judul p{
+		font-size: 14px;
+	}
+
+	.list-product li{
+	font-size:14px;
+	}
+
+	footer{
+		height: 160px;
+	}
+
+	footer h1{
+		font-size: 14px;
+		display: none;
+	}
+
+	.logo span{
+		display: none;
+	}
+
+	footer li{
+		width: 50%;
+		text-align: center;
+	}
+
+}
